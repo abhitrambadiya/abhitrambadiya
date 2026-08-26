@@ -114,7 +114,7 @@ Prediction system with historical market data, trend forecasting, and clear visu
 | | |
 |---|---|
 | 🚀 **Smart India Hackathon 2024** | Grand Finalist |
-| 🥇 **PBL 2025** | project based learning Winner |
+| 🥇 **PBL 2025** | Project-based learning winner |
 | 🎓 **Certificates** | AWS & Google Cloud Skills certificates |
 | 🌱 **Focus** | AI Systems • Cloud • Backend • Open Source |
 | 🎬 **Creative Side** | Editing • Storytelling • Visual Communication |
