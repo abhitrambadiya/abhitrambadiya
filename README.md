@@ -24,13 +24,12 @@
 
 ## `01.` About Me
 
-I'm an **AI & Machine Learning student and software developer** interested in building practical products where intelligent systems meet strong engineering. I enjoy working across the full journey — from **ML models and backend APIs to databases, cloud deployment and user experience**.
+I'm an **AI & Machine Learning student and software developer** interested in building practical products where intelligent systems meet strong engineering. I enjoy working across the full journey - from **ML models and backend APIs to databases, cloud deployment and user experience**.
 
 - 🤖 Exploring **Machine Learning, Agentic AI & MLOps**
 - ☁️ Interested in **backend engineering, AWS, cloud architecture & system design**
 - 🧪 Learning through **projects, open source, hackathons and research-oriented work**
 - 🎬 Also into **video editing & visual storytelling** with DaVinci Resolve and Final Cut Pro
-- ⚡ I like combining **AI + Engineering + Creativity**
 
 <br/>
 
@@ -59,11 +58,6 @@ I'm an **AI & Machine Learning student and software developer** interested in bu
 ### Data / Cloud / Tools
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,git,github,postman&theme=dark" />
 
-### Creative
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-0F172A?style=flat-square&logo=davinciresolve&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Final%20Cut%20Pro-0F172A?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Storytelling-0369A1?style=flat-square&logo=adobecreativecloud&logoColor=white" />
-
 </div>
 
 ---
@@ -74,7 +68,7 @@ I'm an **AI & Machine Learning student and software developer** interested in bu
 <tr>
 <td width="33%" valign="top">
 
-### ☁️ Cloud Platform
+### ☁️ Solvit - Smart Learning
 **Production-style application architecture**
 
 `AWS` `ECS` `ECR` `ALB` `RDS` `S3`
@@ -85,21 +79,21 @@ Containerized frontend/backend, load-balanced services, relational storage, obje
 <td width="33%" valign="top">
 
 ### 🎓 Alumni Platform
-**Full-stack community platform**
+**Full-stack alumni-student platform**
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express` `MongoDB` `App`
 
-Authentication, alumni profiles, events, networking and dedicated administrative flows.
+Authentication, alumni profiles, events, internships, networking and dedicated administrative flows.
 
 </td>
 <td width="33%" valign="top">
 
-### 🎨 Artist Portfolio
-**Design-focused web experience**
+### 🎨 Stock Market Prediction
+**AI-powered stock forecasting & visualization platform**
 
-`React` `Tailwind CSS` `Web3Forms`
+`LSTM` `Python` `Docker`
 
-Responsive components, contact workflows and a strong focus on visual hierarchy and usability.
+Prediction system with historical market data, trend forecasting, and clear visualizations.
 
 </td>
 </tr>
@@ -107,7 +101,7 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 <div align="center">
 
-> **I’m most interested in AI projects where the model is only one part of a complete, reliable system.**
+> **I enjoy building reliable systems that turn ideas into complete products.**
 
 </div>
 
@@ -119,9 +113,9 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 | | |
 |---|---|
-| 🥇 **PBL 2025** | Department Winner |
-| 🚀 **Smart India Hackathon 2024** | Finalist |
-| 🎓 **B.Tech CSE** | Artificial Intelligence & Machine Learning |
+| 🚀 **Smart India Hackathon 2024** | Grand Finalist |
+| 🥇 **PBL 2025** | project based learning Winner |
+| 🎓 **Certificates** | AWS & Google Cloud Skills certificates |
 | 🌱 **Focus** | AI Systems • Cloud • Backend • Open Source |
 | 🎬 **Creative Side** | Editing • Storytelling • Visual Communication |
 
@@ -138,7 +132,7 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
   <img alt="GitHub profile overview" src="./assets/profile-cards/overview.light.svg" width="100%" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/lifetime.dark.svg" />
@@ -149,46 +143,7 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 ---
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
-  <img alt="GitHub contribution rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
-</picture>
-
-<!-- ## `06.` Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
-  <img alt="GitHub contribution history and streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
-  <img alt="GitHub contribution rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-### 🐍 Contribution Flow
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhitrambadiya/abhitrambadiya/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-
-<sub>Generated automatically from my GitHub contribution graph.</sub>
-
-</div> -->
-
----
-
-## `07.` Beyond Code
+## `06.` Beyond Code
 
 <div align="center">
 
