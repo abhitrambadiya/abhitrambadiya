@@ -133,26 +133,47 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhitrambadiya&theme=github_dark" alt="GitHub contribution overview" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub profile overview" src="./assets/profile-cards/overview.light.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhitrambadiya&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhitrambadiya&theme=github_dark" alt="Repos per language" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhitrambadiya&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=38BDF8&area=true&area_color=082F49&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/lifetime.dark.svg" />
+  <img alt="Lifetime GitHub contribution activity" src="./assets/profile-cards/lifetime.light.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-## `06.` Contribution Flow
+## `06.` Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhitrambadiya/abhitrambadiya/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
+  <img alt="GitHub contribution history and streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
+  <img alt="GitHub contribution rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+### 🐍 Contribution Flow
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhitrambadiya/abhitrambadiya/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 <sub>Generated automatically from my GitHub contribution graph.</sub>
 
