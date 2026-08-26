@@ -149,7 +149,14 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 ---
 
-## `06.` Contribution Activity
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
+  <img alt="GitHub contribution rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
+</picture>
+
+<!-- ## `06.` Contribution Activity
 
 <div align="center">
 
@@ -177,7 +184,7 @@ Responsive components, contact workflows and a strong focus on visual hierarchy 
 
 <sub>Generated automatically from my GitHub contribution graph.</sub>
 
-</div>
+</div> -->
 
 ---
 
