@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-cover.webm" width="100%" alt="Abhi Vimal Trambadiya — AI ML Engineer animated banner" />
+<img
+  src="./assets/profile-cover.gif"
+  width="100%"
+  alt="Abhi Vimal Trambadiya - AI ML Engineer animated banner"
+/>
 
 <br/>
 
@@ -67,15 +71,19 @@ I'm an **AI & ML student and software developer** interested in building practic
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
 
 ### Backend / Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,mysql&theme=dark" alt="Backend and Databases" />
 
 ### Cloud, DevOps & Tooling
+
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,figma,apple&theme=dark" alt="Cloud DevOps Tooling" />
 
 </div>
@@ -83,16 +91,17 @@ I'm an **AI & ML student and software developer** interested in building practic
 ---
 
 ## `03.` AI/ML Experience
+
 <div align="center">
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Machine Learning** | Learned | Supervised learning, preprocessing, feature engineering, model evaluation |
-| **Deep Learning** | Learned | Neural networks, sequence modelling and LSTM-based forecasting workflows |
-| **Exploratory Data Analysis** | Learned | Data cleaning, statistical exploration, visualization and pattern discovery |
-| **Agentic AI** | Learning | Tool-using agents, retrieval workflows, RAG and multi-agent system concepts |
-| **MLOps** | Learning | Experiment lifecycle, model packaging, containerization and production ML concepts |
-| **MLflow** | Learning | Experiment tracking, model lifecycle and reproducibility workflows |
+| Domain                        | Proficiency | Details                                                                            |
+| :---------------------------- | :---------: | :--------------------------------------------------------------------------------- |
+| **Machine Learning**          |   Learned   | Supervised learning, preprocessing, feature engineering, model evaluation          |
+| **Deep Learning**             |   Learned   | Neural networks, sequence modelling and LSTM-based forecasting workflows           |
+| **Exploratory Data Analysis** |   Learned   | Data cleaning, statistical exploration, visualization and pattern discovery        |
+| **Agentic AI**                |  Learning   | Tool-using agents, retrieval workflows, RAG and multi-agent system concepts        |
+| **MLOps**                     |  Learning   | Experiment lifecycle, model packaging, containerization and production ML concepts |
+| **MLflow**                    |  Learning   | Experiment tracking, model lifecycle and reproducibility workflows                 |
 
 </div>
 
@@ -107,14 +116,14 @@ I'm an **AI & ML student and software developer** interested in building practic
 
 > **Production-style cloud architecture for a scalable learning platform with isolated code execution.**
 
-| Engineering Area | Implementation |
-| :--- | :--- |
-| **Stack** | React · PostgreSql · Node · Express · RDS |
-| **Scale** | Multi-service architecture with independently containerized application components |
-| **Performance** | Load-balanced application routing with managed container infrastructure |
-| **Security** | Isolated code-execution service accessible only through the backend application layer |
-| **Impact** | Moves the platform from local application development toward production-grade cloud architecture |
-| **Repository** | [Explore this project](https://github.com/abhitrambadiya?tab=repositories) |
+| Engineering Area | Implementation                                                                                   |
+| :--------------- | :----------------------------------------------------------------------------------------------- |
+| **Stack**        | React · PostgreSql · Node · Express · RDS                                                        |
+| **Scale**        | Multi-service architecture with independently containerized application components               |
+| **Performance**  | Load-balanced application routing with managed container infrastructure                          |
+| **Security**     | Isolated code-execution service accessible only through the backend application layer            |
+| **Impact**       | Moves the platform from local application development toward production-grade cloud architecture |
+| **Repository**   | [Explore this project](https://github.com/abhitrambadiya?tab=repositories)                       |
 
 ### Engineering Overview
 
@@ -141,14 +150,14 @@ A separate execution service acts as an isolated code-running environment. It is
 
 > **Full-stack platform connecting students, alumni, administrators, opportunities and institutional communities.**
 
-| Engineering Area | Implementation |
-| :--- | :--- |
-| **Stack** | React · Node.js · Express.js · MongoDB |
-| **Scale** | Multi-role platform supporting students, alumni and administrative workflows |
-| **Performance** | API-driven MERN architecture with structured role-based application flows |
-| **Security** | Authentication, password hashing, authorization, sanitization and rate limiting |
-| **Impact** | Built around a real institutional problem statement for alumni engagement and networking |
-| **Repository** | [Explore this project](https://github.com/abhitrambadiya?tab=repositories) |
+| Engineering Area | Implementation                                                                           |
+| :--------------- | :--------------------------------------------------------------------------------------- |
+| **Stack**        | React · Node.js · Express.js · MongoDB                                                   |
+| **Scale**        | Multi-role platform supporting students, alumni and administrative workflows             |
+| **Performance**  | API-driven MERN architecture with structured role-based application flows                |
+| **Security**     | Authentication, password hashing, authorization, sanitization and rate limiting          |
+| **Impact**       | Built around a real institutional problem statement for alumni engagement and networking |
+| **Repository**   | [Explore this project](https://github.com/abhitrambadiya?tab=repositories)               |
 
 ### Engineering Overview
 
@@ -173,14 +182,14 @@ The project strengthened my understanding of **backend architecture, authenticat
 
 > **Machine-learning forecasting system focused on time-series prediction and clear visual interpretation.**
 
-| Engineering Area | Implementation |
-| :--- | :--- |
-| **Stack** | Python · LSTM · Machine Learning · Docker |
-| **Scale** | End-to-end workflow from historical market data to model-driven predictions |
-| **Performance** | Sequence-based forecasting using LSTM neural-network architecture |
-| **Security** | Containerized runtime supporting reproducible application environments |
-| **Impact** | Combines machine learning with a usable product experience instead of stopping at model training |
-| **Repository** | [Explore this project](https://github.com/abhitrambadiya?tab=repositories) |
+| Engineering Area | Implementation                                                                                   |
+| :--------------- | :----------------------------------------------------------------------------------------------- |
+| **Stack**        | Python · LSTM · Machine Learning · Docker                                                        |
+| **Scale**        | End-to-end workflow from historical market data to model-driven predictions                      |
+| **Performance**  | Sequence-based forecasting using LSTM neural-network architecture                                |
+| **Security**     | Containerized runtime supporting reproducible application environments                           |
+| **Impact**       | Combines machine learning with a usable product experience instead of stopping at model training |
+| **Repository**   | [Explore this project](https://github.com/abhitrambadiya?tab=repositories)                       |
 
 ### Engineering Overview
 
@@ -200,12 +209,12 @@ The focus extends beyond training the model to presenting predictions clearly an
 
 <div align="center">
 
-| **Recognition** | **Details** |
-|---|---|
-| **Smart India Hackathon 2024** | Grand Finalist (Back2Campus project) |
-| **PBL 2025** | Department Winner in Project-Based Learning |
-| **Focus** | AI Systems • Cloud • Backend • Open Source |
-| **Creative Side** | Editing • Storytelling • Visual Communication |
+| **Recognition**                | **Details**                                   |
+| ------------------------------ | --------------------------------------------- |
+| **Smart India Hackathon 2024** | Grand Finalist (Back2Campus project)          |
+| **PBL 2025**                   | Department Winner in Project-Based Learning   |
+| **Focus**                      | AI Systems • Cloud • Backend • Open Source    |
+| **Creative Side**              | Editing • Storytelling • Visual Communication |
 
 </div>
 
