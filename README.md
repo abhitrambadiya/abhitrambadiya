@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Kolhapur-Maharashtra%2C%20India-2563EB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/abhitrambadiya?tab=repositories">
   <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Projects-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/GITHUB-abhitrambadiya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=abhitrambadiya&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile Views" />
 <a href="https://github.com/abhitrambadiya?tab=followers">
@@ -51,7 +51,7 @@
 
 ## `01.` About Me
 
-I'm an **AI & Machine Learning student and software developer** interested in building practical products where intelligent systems meet strong engineering. I enjoy working across the full journey - from **ML models and backend APIs to databases, cloud deployment and user experience**.
+I'm an **AI & ML student and software developer** interested in building practical products where intelligent systems meet strong engineering. I enjoy working across the full journey - from **ML models and backend APIs to databases, cloud deployment, scalable architecture and user experience**.
 
 - 🤖 Exploring **Machine Learning, Agentic AI & MLOps**
 - ☁️ Interested in **backend engineering, AWS, cloud architecture & system design**
@@ -60,8 +60,6 @@ I'm an **AI & Machine Learning student and software developer** interested in bu
 
 > **"One day you leave this world behind, so live a life you remember."**
 
-<br/>
-
 ---
 
 ## `02.` Tech Stack
@@ -69,7 +67,7 @@ I'm an **AI & Machine Learning student and software developer** interested in bu
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
@@ -78,7 +76,7 @@ I'm an **AI & Machine Learning student and software developer** interested in bu
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,mysql&theme=dark" alt="Backend and Databases" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,figma,linux&theme=dark" alt="Cloud DevOps Tooling" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,figma,apple&theme=dark" alt="Cloud DevOps Tooling" />
 
 </div>
 
@@ -137,7 +135,7 @@ A separate execution service acts as an isolated code-running environment. It is
 <br/>
 
 <details>
-<summary><b>🎓 Alumni Association Platform</b></summary>
+<summary><b>🎓 Back2Campus - Alumni Association Platform</b></summary>
 
 <br/>
 
@@ -204,26 +202,22 @@ The focus extends beyond training the model to presenting predictions clearly an
 
 | **Recognition** | **Details** |
 |---|---|
-| **Smart India Hackathon 2024** | Grand Finalist |
+| **Smart India Hackathon 2024** | Grand Finalist (Back2Campus project) |
 | **PBL 2025** | Department Winner in Project-Based Learning |
 | **Focus** | AI Systems • Cloud • Backend • Open Source |
 | **Creative Side** | Editing • Storytelling • Visual Communication |
 
 </div>
 
-<a href="https://aws.amazon.com/training/">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Courses-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Courses" />
-</a>
-
-<a href="https://www.cloudskillsboost.google/">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4338CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" />
-</a>
-
-<img src="https://img.shields.io/badge/Technical-Certificates-5B21B6?style=for-the-badge&logo=verified&logoColor=white" alt="Technical Certificates" />
+<p align="center">
+  <a href="https://aws.amazon.com/training/"><img src="https://img.shields.io/badge/AWS-Cloud%20Courses-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Courses" /></a>
+  <a href="https://www.cloudskillsboost.google/"><img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4338CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" /></a>
+  <img src="https://img.shields.io/badge/Technical-Certificates-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Technical Certificates" />
+</p>
 
 ---
 
-## `09.` Coding Profiles
+## `06.` Coding Profiles
 
 <div align="center">
 
@@ -247,14 +241,14 @@ The focus extends beyond training the model to presenting predictions clearly an
 
 ---
 
-## `06.` GitHub Intelligence
+## `07.` GitHub
 
 <div align="center">
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
-  <img alt="GitHub profile overview" src="./assets/profile-cards/overview.light.svg" width="100%" /> -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=abhitrambadiya&background=0D1117&border=312E81&stroke=8B5CF6&ring=60A5FA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Abhi GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub profile overview" src="./assets/profile-cards/overview.light.svg" width="100%" />
+  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=abhitrambadiya&background=0D1117&border=312E81&stroke=8B5CF6&ring=60A5FA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Abhi GitHub Streak" /> -->
 </picture>
 
 <br/>
@@ -268,7 +262,7 @@ The focus extends beyond training the model to presenting predictions clearly an
 
 ---
 
-## `07.` Beyond Code
+## `08.` Beyond Code
 
 <div align="center">
 
@@ -293,6 +287,9 @@ I enjoy **video editing, visual storytelling and design** alongside engineering.
 </a>
 <a href="https://www.linkedin.com/in/abhitrambadiya/">
   <img src="https://img.shields.io/badge/Let's%20connect-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/abhi.render/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <!-- <br/><br/>
