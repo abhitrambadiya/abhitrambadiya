@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ai-blue-hero.gif" width="100%" alt="Abhi Vimal Trambadiya — AI ML Engineer animated banner" />
+<img src="./assets/profile-cover.webm" width="100%" alt="Abhi Vimal Trambadiya — AI ML Engineer animated banner" />
 
 <br/>
 
